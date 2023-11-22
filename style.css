@@ -1,12 +1,12 @@
 body{
-    background-color: beige;
+    background-color: rgb(255, 255, 255);
 
 font-size: 30px;
 text-align: justify;
-color:red;
+color:rgb(0, 0, 0);
 }
 h1 { 
-    color:blue;
+    color:rgba(63, 63, 253, 0.493);
     font-size: 50px;
     text-align: center;
 }
